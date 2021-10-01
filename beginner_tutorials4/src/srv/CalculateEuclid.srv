@@ -1,0 +1,6 @@
+float64 point_one_x
+float64 point_one_y
+float64 point_two_x
+float64 point_two_y
+---
+float64 euc_dist
